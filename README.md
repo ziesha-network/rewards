@@ -3,6 +3,8 @@
 Rewards are determined in Test-Ziesha-Tokens (Tℤ). This unit will be converted to ℤ
 at a fixed rate, which will be calculated in the future according to our tokenomic model.
 
+Checkout node-runner rewards in: *NODE_RUNNERS.md*
+
 ## Chaos Testnet (Total 1000000Tℤ)
 
 | Owner | Reward |
