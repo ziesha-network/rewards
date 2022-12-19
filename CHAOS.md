@@ -1,13 +1,3 @@
-# Ziesha Testnet Rewards
-
-Rewards are determined in Test-Ziesha-Tokens (Tℤ). This unit will be converted to ℤ
-at a fixed rate, which will be calculated in the future according to our tokenomic model.
-
-Checkout node-runner rewards in: *NODE_RUNNERS.md*
-Checkout Groth Testnet rewards in: *GROTH.md*
-Checkout Chaos Testnet rewards in: *GROTH.md*
-
-
 ## Chaos Testnet (Total 1000000Tℤ)
 
 **(NOTE: Please make sure you have the 12-word mnemonic phrase resulting in the following public-keys, otherwise you will not receive your reward!)**
