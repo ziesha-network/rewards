@@ -36,6 +36,8 @@
 | @redwhite | 7 ℤP | 
 | @Dajeon | 7 ℤP | 
 | @Gagiga | 7 ℤP | 
+| @ylmzalt34 | 7 ℤP | 
+| @irmanfzn.eth | 7 ℤP | 
 | @Mdkruz | 9 ℤP | 
 | @Fruckter | 4 ℤP | 
 | @n83707 | 4 ℤP | 
