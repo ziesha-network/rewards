@@ -68,3 +68,4 @@
 | @Damnational | 3 ℤP |
 | @unrdp | 3 ℤP |
 | @DOU | 2 ℤP |
+| @Novikov | 19 ℤP |
