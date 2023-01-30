@@ -4,7 +4,7 @@
 * It is not necessary to join the Testnet to win the rewards here.
 * If you want to participate in the next event, please obtain the `@Community Members` role in the `#role-selection` channel.
 * Enable notifications for the [Discord announcement](discord.gg/zieshanetwork) channel.
-* If you want to learn more details, read this [Twit series](https://twitter.com/ZieshaNetwork/status/1614997376892108803?s=20&t=vZYZfJVOwgBGY5rISiLCTA) and leave a comment.
+* If you want to learn more details, read this [Tweet series](https://twitter.com/ZieshaNetwork/status/1614997376892108803?s=20&t=vZYZfJVOwgBGY5rISiLCTA) and leave a comment.
 
 
 | Owner | Reward |
