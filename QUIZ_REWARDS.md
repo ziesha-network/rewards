@@ -25,7 +25,7 @@
 | @nowayout | 13 ℤP | 
 | @s1mple(Паша)#5340 | 23 ℤP |
 | @ViktorM#3632 | 13 ℤP | 
-| @Pashedu | 21 ℤP | 
+| @Pashedu | 46 ℤP | 
 | @johnsmith323 | 11 ℤP | 
 | @Lavenil | 18 ℤP | 
 | @user509 | 9 ℤP | 
