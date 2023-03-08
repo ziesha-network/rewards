@@ -6,3 +6,4 @@ at a fixed rate, which will be calculated in the future according to our tokenom
  - Checkout node-runner rewards in: *NODE_RUNNERS.md*
  - Checkout Groth Testnet rewards in: *GROTH.md*
  - Checkout Chaos Testnet rewards in: *CHAOS.md*
+ - Checkout Chaos Testnet rewards in: *PELMENI.md*
