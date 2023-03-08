@@ -4,6 +4,7 @@ This is an initial report of rewards given to validators and provers in the Pelm
 
 **THIS IS AN DRAFT REPORT AND SUBJECT TO CHANGES!**
 
+| Owner | Reward |
 | jub220b276df9fcd7db35f292a3011e1ac423a5c5950eba64242d0fb8e4f2a8351f2 | 406839.0Tℤ |
 | jub22978d79159feca05802dfedbbf16ec0d39a858a691b41a37557386a3fb6fb6f8 | 347943.0Tℤ |
 | jub31c116887197fcd74834b3534d6c4f5e4c54f6040d820a74828144df5a68173ef | 236733.0Tℤ |
