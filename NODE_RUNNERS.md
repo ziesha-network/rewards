@@ -1,4 +1,4 @@
-# Node rewards (Update: 18th Mars 2023)
+# Node rewards (Update: 13th July 2023)
 
 The node rewards are calculated based on your node activity and responsiveness
 during the Chaos, Groth, Pelmeni and Deruny Testnets till end of 13th July 2023.
